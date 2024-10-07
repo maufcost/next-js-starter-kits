@@ -1,0 +1,11 @@
+.mainButton {
+    padding: 10px;
+    background-color: coral;
+    color: #1e1e1e;
+    border: none;
+}
+
+.mainButton:hover {
+    cursor: pointer;
+    background-color: green;
+}
