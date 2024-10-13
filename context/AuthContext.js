@@ -17,6 +17,11 @@ const AuthContext = React.createContext();
 //
 // Also, any components that import this hook must
 // be client components! So, use 'use client'
+// 
+// We could've just imported 'useContext' and the
+// actual context 'AuthContext' in whatever child
+// component we'd want to use this context; however,
+// we wanted to give this context a specific name: useAuth()
 export function useAuth() {
     return useContext(AuthContext)
 }
