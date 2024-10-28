@@ -1,0 +1,22 @@
+export const people = [
+    { firstName: 'John', lastName: 'Doe' },
+    { firstName: 'Jane', lastName: 'Smith' },
+    { firstName: 'Michael', lastName: 'Johnson' },
+    { firstName: 'Emily', lastName: 'Williams' },
+    { firstName: 'Daniel', lastName: 'Brown' },
+    { firstName: 'Sophia', lastName: 'Davis' },
+    { firstName: 'James', lastName: 'Miller' },
+    { firstName: 'Olivia', lastName: 'Wilson' },
+    { firstName: 'David', lastName: 'Moore' },
+    { firstName: 'Emma', lastName: 'Taylor' },
+    { firstName: 'Christopher', lastName: 'Anderson' },
+    { firstName: 'Isabella', lastName: 'Thomas' },
+    { firstName: 'Matthew', lastName: 'Jackson' },
+    { firstName: 'Ava', lastName: 'White' },
+    { firstName: 'Joshua', lastName: 'Harris' },
+    { firstName: 'Mia', lastName: 'Martin' },
+    { firstName: 'Andrew', lastName: 'Thompson' },
+    { firstName: 'Amelia', lastName: 'Garcia' },
+    { firstName: 'Benjamin', lastName: 'Martinez' },
+    { firstName: 'Charlotte', lastName: 'Robinson' }
+]
